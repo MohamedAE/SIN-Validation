@@ -1,6 +1,3 @@
-; Wed_11_1_LAB_GROUP.txt
-;
-                        
 	fcc	"8030838"
 	fcc	"8030538"
 	fcc	"3434731"
